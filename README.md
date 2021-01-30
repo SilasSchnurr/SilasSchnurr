@@ -1,4 +1,4 @@
-### Hi there, it's-a me
+### It's-a me!
 
 ![Mario octocat](https://octodex.github.com/images/plumber.jpg)
 <!--
