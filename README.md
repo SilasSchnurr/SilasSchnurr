@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, it's-a me
 
+![Mario octocat](https://octodex.github.com/images/plumber.jpg)
 <!--
-**SilasDerProfi/SilasDerProfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My middle name is Mario (maybe you guessed that from the octocat and the greeting)
 -->
