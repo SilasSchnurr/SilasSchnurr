@@ -13,7 +13,7 @@
   Console.WriteLine("n.a.");
   ```
 * 📫 How to reach me: [silas.schnurr.one](https://silas.schnurr.one)
-* ⚡ Fun fact: My middle name is Mario (therefore the octocat and the greeting)
+* ⚡ Fun fact: My middle name is Mario (therefore the octocat and the greeting...)
 
 <!--
 * 🔭 I’m currently working on ...
