@@ -1,6 +1,6 @@
 ### It's-a me!
 
-![Mario octocat](https://octodex.github.com/images/plumber.jpg)
+![Mario octocat](plumber.png)
 
 
 * 💬 Ask me about uncommon algorithmic approaches and crazy one-liners that no one would ever use in production
