@@ -18,4 +18,10 @@
 * 👯 I’m looking to collaborate on ...
 -->
 
-![](contributions_fake_banner.png)
+
+\
+\
+\
+\
+\
+![faked contributions banner](contributions_fake_banner.png)
