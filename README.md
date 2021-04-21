@@ -1,8 +1,5 @@
 ### It's-a me!
 
-![Mario octocat](plumber.png)
-
-
 * 💬 Ask me about uncommon algorithmic approaches and crazy one-liners that no one would ever use in production
 * ☕ My favorite `java` one-liner:
   ```java
@@ -13,10 +10,12 @@
   Console.WriteLine("n.a.");
   ```
 * 📫 How to reach me: [silas.schnurr.one](https://silas.schnurr.one)
-* ⚡ Fun fact: My middle name is Mario (therefore the octocat and the greeting...)
+* ⚡ Fun fact: My middle name is Mario (therefore the greeting...)
 
 <!--
 * 🔭 I’m currently working on ...
 * 🌱 I’m currently learning ...
 * 👯 I’m looking to collaborate on ...
 -->
+
+![](contributions_fake_banner.png)
