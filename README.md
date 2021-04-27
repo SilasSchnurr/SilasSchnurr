@@ -25,3 +25,19 @@
 \
 \
 ![faked contributions banner](contributions_fake_banner.png)
+
+<!--
+https://github-readme-stats.vercel.app/api/top-langs/?username=silasderprofi&theme=light&layout=compact&langs_count=100&hide=CSS,scss,makefile,batchfile,shell
+https://github-readme-stats.vercel.app/api?username=SilasDerProfi&show_icons=true
+https://github.com/anuraghazra/github-readme-stats
+-->
+<!--
+<p align="right">
+    Less ... More
+  <img src="contributions_fake_banner.png" />
+  <table>
+    <tr><td>r0c0</td><td>r0c1</td></tr>
+    <tr><td>r1c0</td><td>r1c1</td></tr>
+    </table>
+</p>
+-->
