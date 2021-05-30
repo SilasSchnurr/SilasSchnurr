@@ -4,7 +4,7 @@
 > 
 > **Git.**
 > 
-> *Git-who?*
+> *Git who?*
 > 
 > **Sorry, 'who' is not a git command - did you mean 'show'?**
 
