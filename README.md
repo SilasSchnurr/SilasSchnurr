@@ -6,7 +6,7 @@
 > 
 > *Git who?*
 > 
-> **Sorry, 'who' is not a git command - did you mean 'show'?**
+> **'who?' is not a git command. See 'git --help'. The most similar command is 'show'**
 
 * ☕ My favorite `java` one-liner:
   ```java
