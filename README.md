@@ -12,10 +12,6 @@
   ```java
   for (int i = 10; i <= 109; System.out.printf("%6s", ++i % 10 == 0 ? i - 10 + "\n" : "\b" + i % 10 * (i / 10)));
   ```
-* 🔪 My favorite `c#` one-liner:
-  ```csharp
-  Console.WriteLine("n.a.");
-  ```
 * 📫 How to reach me: [silas.schnurr.one](https://silas.schnurr.one)
 
 <!--
